@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.time {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+
